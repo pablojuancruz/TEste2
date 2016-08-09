@@ -14,6 +14,8 @@ namespace ConsoleApplication1
     /// <param name="args"></param>
         static void Main(string[] args)
         {
+
+            Console.ReadKey();
         }
     }
 }
